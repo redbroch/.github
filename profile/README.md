@@ -36,9 +36,9 @@ Most firms will sell you a roadmap. We build the system.
 
 ### Repositories here
 
-Public demonstrations of the architecture we build with. Small, documented, and written to be read — each one exists to show a specific capability rather than to be used as-is.
-
 Client work is private.
+
+A public demonstration of the architecture will live here when one exists. There is not one yet.
 
 ---
 

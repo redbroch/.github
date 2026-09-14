@@ -1,36 +1,45 @@
 # Redbroch
 
-**We build secure AI systems for mid-sized firms — in production, not in a slide deck.**
+**We build secure AI systems for mid-sized firms.**
 
-Redbroch is an AI implementation firm. We build the internal assistants, document workflows, and platform infrastructure that established businesses actually deploy — grounded in their own data, behind their own permissions, with an audit trail.
-
-Most firms will sell you a roadmap. We build the system.
+Redbroch is an AI implementation firm. We build internal assistants, document workflows and
+platform infrastructure that run on a firm's own data, behind its own permissions, with an
+audit trail.
 
 ---
 
 ### What we build
 
-**Company knowledge assistants** — grounded in your documents, procedures, and prior work. Every answer cites its source. Permission-aware, so nobody sees through the assistant what they couldn't open directly.
+**Company knowledge assistants.** Grounded in your documents, procedures and prior work.
+Every answer cites its source. Permission-aware, so nobody sees through the assistant what
+they could not open directly.
 
-**Service-line copilots** — built around how a specific department actually works, not a generic chatbot pointed at a file share.
+**Service-line copilots.** Built around how a specific department actually works, rather than
+a generic chatbot pointed at a file share.
 
-**Document workflows** — intake, classification, extraction, validation against rules, human approval at the points where being wrong is expensive, and a reconstructable record of every decision.
+**Document workflows.** Intake, classification, extraction, validation against rules, human
+approval at the points where being wrong is expensive, and a reconstructable record of every
+decision.
 
-**Shared platform layer** — auth, permissions, model routing, logging, cost tracking. The part that stops you rebuilding the same plumbing for every new system.
+**Shared platform layer.** Auth, permissions, model routing, logging, cost tracking. The part
+that stops you rebuilding the same plumbing for every new system.
 
 ---
 
 ### How we work
 
-**Grounding over generation.** Answers come from your material, with citations. If support can't be found, the system says so rather than inventing one.
+**Grounding over generation.** Answers come from your material, with citations. Where support
+cannot be found, the system says so rather than inventing one.
 
-**Human review at consequential points.** Approval gates are a design requirement, not a limitation.
+**Human review at consequential points.** Approval gates are a design requirement.
 
-**Everything logged.** Every model call, prompt, retrieval, and output — reconstructable months later.
+**Everything logged.** Every model call, prompt, retrieval and output, reconstructable months
+later.
 
-**Your data on your contracts.** We build against your model-provider account wherever possible, so your data is governed by your agreement, not ours.
+**Your data on your contracts.** We build against your model-provider account wherever
+possible, so your data is governed by your agreement rather than ours.
 
-**Model choice is a documented decision** — revisited as capability and price change.
+**Model choice is a documented decision**, revisited as capability and price change.
 
 ---
 
@@ -38,7 +47,8 @@ Most firms will sell you a roadmap. We build the system.
 
 Client work is private.
 
-A public demonstration of the architecture will live here when one exists. There is not one yet.
+Redbroch was formed in August 2026 and is not yet taking client work. A public demonstration
+of the architecture will live here when one exists. There is not one yet.
 
 ---
 
